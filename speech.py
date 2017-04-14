@@ -3,7 +3,6 @@ from random import shuffle
 import numpy as np
 import wave
 import tflearn
-import matplotlib.pyplot
 
 CHUNK = 4096
 batch_size = 10
